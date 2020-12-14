@@ -1,6 +1,6 @@
 exports.handler = function(event, context, callback) {
     callback(null, {
       statusCode: 200,
-      body: "Da blir det pepperkaker"
+      body: "Da blir det kakemenn"
     });
   };
